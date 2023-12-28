@@ -1,3 +1,4 @@
+SQL introduction
 SQL, or Structured Query Language, is a domain-specific programming language designed for managing and manipulating relational databases. It provides a standardized way to interact with databases, enabling users to create, retrieve, update, and delete data. SQL is used by database management systems (DBMS) to perform these operations.
 
 Key features of SQL include:
