@@ -4,7 +4,6 @@ Write a function that returns the list of available attributes and methods of an
 Prototype: def lookup(obj):
 Returns a list object
 You are not allowed to import any module
-
 1. My list
 Write a class MyList that inherits from list:
 
