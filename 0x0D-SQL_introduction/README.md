@@ -26,3 +26,4 @@ COMMIT: Saves changes made during the current transaction.
 ROLLBACK: Reverts changes made during the current transaction.
 SAVEPOINT: Sets a point within a transaction to which you can later roll back.
 SQL is widely used in conjunction with relational database management systems (RDBMS) like MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database, and SQLite. These systems implement and extend the SQL standard to provide additional features, optimizations, and capabilities.
+
