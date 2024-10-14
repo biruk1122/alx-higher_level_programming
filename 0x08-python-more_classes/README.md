@@ -243,7 +243,6 @@ Returns rect_1 if both have the same area value
 Class method def square(cls, size=0): that returns a new Rectangle instance with width == height == size
 You are not allowed to import any module
 
-
 10. N queens
 
 The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem.
